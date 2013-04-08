@@ -1,0 +1,388 @@
+Twildflower
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/Info.plist" wildflower/wildflower-Info.plist
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/ResourceRules.plist
+cProcessPCH "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/PrecompiledHeaders/wildflower-Prefix-grwrdvvzrktquygngbkgwkctncbp/wildflower-Prefix.pch.pth" wildflower/wildflower-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/Objects-normal/armv7/wildflowerAppDelegate.o "/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/wildflowerAppDelegate.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/Objects-normal/armv7/main.o "/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/main.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/Objects-normal/armv7/wildflowerViewController.o "/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/wildflowerViewController.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/wildflower" normal armv7
+cGenerateDSYMFile "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app.dSYM" "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/wildflower"
+cCopyStringsFile "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/en.lproj/InfoPlist.strings" wildflower/en.lproj/InfoPlist.strings
+cCopyPNGFile "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/Default.png" wildflower/Default.png
+cCopyPNGFile "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/Default@2x.png" wildflower/Default@2x.png
+cCopyPNGFile "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/Default-568h@2x.png" wildflower/Default-568h@2x.png
+cCompileStoryboard "/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/en.lproj/MainStoryboard.storyboard"
+cProcessProductPackaging "/Users/gopherbro94/Library/MobileDevice/Provisioning Profiles/E6A1CB81-CA61-43B7-829F-D09F971D3864.mobileprovision" "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/embedded.mobileprovision"
+cProcessProductPackaging "/Users/gopherbro94/Library/MobileDevice/Provisioning Profiles/E6A1CB81-CA61-43B7-829F-D09F971D3864.mobileprovision" "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/embedded.mobileprovision"
+cTouch "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app"
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/wildflower.xcent"
+cCodeSign "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk
+c0000000051461D310000000000000110
+t1363549489
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist
+c0000000051079DA500000000000001A7
+t1359453605
+s423
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist
+c0000000051079DA500000000000001E5
+t1359453605
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000051079DA80000000000322700
+t1359453608
+s3286784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000051079DA9000000000062AD10
+t1359453609
+s6466832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c0000000051079DA800000000000015F7
+t1359453608
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c0000000051079DA90000000000000E8D
+t1359453609
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000051079DAD00000000011BCDF0
+t1359453613
+s18599408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/Availability.h
+c0000000051079DB00000000000001B73
+t1359453616
+s7027
+
+N/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/PrecompiledHeaders/wildflower-Prefix-grwrdvvzrktquygngbkgwkctncbp/wildflower-Prefix.pch.pth
+t2
+s0
+
+N/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/Objects-normal/armv7/wildflower.LinkFileList
+c00000000515E32EB0000000000000241
+t1365127915
+s577
+
+N/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/Objects-normal/armv7/wildflowerAppDelegate.o
+t2
+s0
+
+N/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/Objects-normal/armv7/wildflowerViewController.o
+t2
+s0
+
+N/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/wildflower.xcent
+t2
+s0
+
+N/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app
+t2
+s0
+
+N/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app.dSYM
+t2
+s0
+
+N/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/Default.png
+t2
+s0
+
+N/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/Default@2x.png
+t2
+s0
+
+N/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/Info.plist
+t2
+s0
+
+N/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/PkgInfo
+t2
+s0
+
+N/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/ResourceRules.plist
+t2
+s0
+
+N/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/en.lproj/MainStoryboard.storyboardc
+t2
+s0
+
+N/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/wildflower
+t2
+s0
+
+N/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/Default-568h@2x.png
+c0000000050262AB100000000000048A2
+t1344678577
+s18594
+
+N/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/Default.png
+c0000000050262AB1000000000000198C
+t1344678577
+s6540
+
+N/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/Default@2x.png
+c0000000050262AB10000000000003EEB
+t1344678577
+s16107
+
+N/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/en.lproj/InfoPlist.strings
+c00000000515E3242000000000000002D
+t1365127746
+s45
+
+N/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/en.lproj/MainStoryboard.storyboard
+c00000000515E32EB0000000000004674
+t1365127915
+s18036
+
+N/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/main.m
+c00000000515E3242000000000000016A
+t1365127746
+s362
+
+N/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/wildflower-Prefix.pch
+c00000000515E32420000000000000143
+t1365127746
+s323
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/wildflowerAppDelegate.m
+c00000000515E324200000000000007FB
+t1365127746
+s2043
+
+N/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/wildflowerViewController.m
+c00000000515E3242000000000000021B
+t1365127746
+s539
+
+N/Users/gopherbro94/Library/MobileDevice/Provisioning Profiles/E6A1CB81-CA61-43B7-829F-D09F971D3864.mobileprovision
+c000000005131B0ED0000000000001DF2
+t1362211053
+s7666
+
+Nwildflower/wildflower-Info.plist
+c00000000515E324200000000000004CF
+t1365127746
+s1231
+
+CBuild AST from "/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/main.m"
+r0
+
+CBuild AST from "/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/wildflowerAppDelegate.m"
+r0
+
+CBuild AST from "/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/wildflowerViewController.m"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciese543d46b6a0eb741^9016df6b6a0eb741^---0#1#0#--18"Check dependencies36"1F8DA5EF-24C8-4163-9534-DA3354B035B7-
+
+CCodeSign "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app"
+s386820717.337304
+e386820717.496894
+r1
+xCodeSign
+x/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"CodeSign DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app5d6c566d6a0eb741^450e816d6a0eb741^---0#0#0#-19%DVTDocumentLocation2@146"file://localhost/Users/gopherbro94/Documents/App%20Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/0000000000000000^1031"CodeSign DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app    cd "/Users/gopherbro94/Documents/App Development/iOS/wildflower"    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign --force --sign d1459d543ec1c4100f251c08a32a42f7319073e7 "--resource-rules=/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/ResourceRules.plist" --entitlements "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/wildflower.xcent" "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app"36"E4A634DD-7B2E-4FCE-8FFC-008564D3F4A3-
+
+CCompileC DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/Objects-normal/armv7/main.o "/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/main.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s386820716.138188
+e386820716.164994
+r1
+xCompileC
+xDerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/Objects-normal/armv7/main.o
+x/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/main.m978c236c6a0eb741^cd3b2a6c6a0eb741^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/gopherbro94/Documents/App%20Development/iOS/wildflower/wildflower/main.m0000000000000000^4065"CompileC DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/Objects-normal/armv7/main.o wildflower/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/gopherbro94/Documents/App Development/iOS/wildflower"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/wildflower-generated-files.hmap" "-I/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/wildflower-own-target-headers.hmap" "-I/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/wildflower-all-target-headers.hmap" -iquote "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/wildflower-project-headers.hmap" "-I/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/DerivedSources/armv7" "-I/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/DerivedSources" "-F/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos" -include "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/PrecompiledHeaders/wildflower-Prefix-grwrdvvzrktquygngbkgwkctncbp/wildflower-Prefix.pch" -MMD -MT dependencies -MF "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/Objects-normal/armv7/main.d" --serialize-diagnostics "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/Objects-normal/armv7/main.dia" -c "/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/main.m" -o "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/Objects-normal/armv7/main.o"36"6BD9C0F4-1ED8-4E37-9D0C-CBCC8FB7E0EB-
+
+CCompileC DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/Objects-normal/armv7/wildflowerAppDelegate.o "/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/wildflowerAppDelegate.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s386820716.138185
+e386820716.197497
+r1
+xCompileC
+xDerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/Objects-normal/armv7/wildflowerAppDelegate.o
+x/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/wildflowerAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/wildflowerAppDelegate.m698b236c6a0eb741^bc90326c6a0eb741^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/gopherbro94/Documents/App%20Development/iOS/wildflower/wildflower/wildflowerAppDelegate.m0000000000000000^4167"CompileC DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/Objects-normal/armv7/wildflowerAppDelegate.o wildflower/wildflowerAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/gopherbro94/Documents/App Development/iOS/wildflower"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/wildflower-generated-files.hmap" "-I/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/wildflower-own-target-headers.hmap" "-I/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/wildflower-all-target-headers.hmap" -iquote "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/wildflower-project-headers.hmap" "-I/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/DerivedSources/armv7" "-I/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/DerivedSources" "-F/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos" -include "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/PrecompiledHeaders/wildflower-Prefix-grwrdvvzrktquygngbkgwkctncbp/wildflower-Prefix.pch" -MMD -MT dependencies -MF "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/Objects-normal/armv7/wildflowerAppDelegate.d" --serialize-diagnostics "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/Objects-normal/armv7/wildflowerAppDelegate.dia" -c "/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/wildflowerAppDelegate.m" -o "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/Objects-normal/armv7/wildflowerAppDelegate.o"36"12C5CCFA-4805-4B57-BFA8-C6015D4DCBF5-
+
+CCompileC DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/Objects-normal/armv7/wildflowerViewController.o "/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/wildflowerViewController.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s386820716.138199
+e386820716.191342
+r1
+xCompileC
+xDerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/Objects-normal/armv7/wildflowerViewController.o
+x/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/wildflowerViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/wildflowerViewController.mba84236c6a0eb741^8bfa306c6a0eb741^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/gopherbro94/Documents/App%20Development/iOS/wildflower/wildflower/wildflowerViewController.m0000000000000000^4185"CompileC DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/Objects-normal/armv7/wildflowerViewController.o wildflower/wildflowerViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/gopherbro94/Documents/App Development/iOS/wildflower"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/wildflower-generated-files.hmap" "-I/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/wildflower-own-target-headers.hmap" "-I/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/wildflower-all-target-headers.hmap" -iquote "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/wildflower-project-headers.hmap" "-I/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/DerivedSources/armv7" "-I/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/DerivedSources" "-F/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos" -include "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/PrecompiledHeaders/wildflower-Prefix-grwrdvvzrktquygngbkgwkctncbp/wildflower-Prefix.pch" -MMD -MT dependencies -MF "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/Objects-normal/armv7/wildflowerViewController.d" --serialize-diagnostics "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/Objects-normal/armv7/wildflowerViewController.dia" -c "/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/wildflowerViewController.m" -o "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/Objects-normal/armv7/wildflowerViewController.o"36"7A5449C1-1A11-4103-9B85-CE829215AF66-
+
+CCompileStoryboard "/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/en.lproj/MainStoryboard.storyboard"
+s386820716.263867
+e386820717.279110
+r1
+xCompileStoryboard
+x/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/en.lproj/MainStoryboard.storyboard
+o/* com.apple.ibtool.document.warnings */
+o/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/en.lproj/MainStoryboard.storyboard:ZNf-7m-DgX: warning: Prototype table cells must have reuse identifiers [9]
+o/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/en.lproj/MainStoryboard.storyboard:Amr-kh-OhG: warning: Prototype table cells must have reuse identifiers [9]
+o/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/en.lproj/MainStoryboard.storyboard:7sR-YK-2U0: warning: Prototype table cells must have reuse identifiers [9]
+o/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/en.lproj/MainStoryboard.storyboard:Ffj-xC-1cw: warning: Prototype table cells must have reuse identifiers [9]
+o/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/en.lproj/MainStoryboard.storyboard:w8Q-xV-O63: warning: Prototype table cells must have reuse identifiers [9]
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"CompileStoryboard wildflower/en.lproj/MainStoryboard.storyboard7aa6436c6a0eb741^c382476d6a0eb741^-920"/* com.apple.ibtool.document.warnings *//Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/en.lproj/MainStoryboard.storyboard:ZNf-7m-DgX: warning: Prototype table cells must have reuse identifiers/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/en.lproj/MainStoryboard.storyboard:Amr-kh-OhG: warning: Prototype table cells must have reuse identifiers/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/en.lproj/MainStoryboard.storyboard:7sR-YK-2U0: warning: Prototype table cells must have reuse identifiers/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/en.lproj/MainStoryboard.storyboard:Ffj-xC-1cw: warning: Prototype table cells must have reuse identifiers/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/en.lproj/MainStoryboard.storyboard:w8Q-xV-O63: warning: Prototype table cells must have reuse identifiers5(21%IDEActivityLogMessage2@49"Prototype table cells must have reuse identifiers-386820717#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@123"file://localhost/Users/gopherbro94/Documents/App%20Development/iOS/wildflower/wildflower/en.lproj/MainStoryboard.storyboard0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--2@49"Prototype table cells must have reuse identifiers-386820717#18446744073709551615#0#-1#-3@123"file://localhost/Users/gopherbro94/Documents/App%20Development/iOS/wildflower/wildflower/en.lproj/MainStoryboard.storyboard0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--2@49"Prototype table cells must have reuse identifiers-386820717#18446744073709551615#0#-1#-3@123"file://localhost/Users/gopherbro94/Documents/App%20Development/iOS/wildflower/wildflower/en.lproj/MainStoryboard.storyboard0000000000000000^6#18446744073709551615#6#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--2@49"Prototype table cells must have reuse identifiers-386820717#18446744073709551615#0#-1#-3@123"file://localhost/Users/gopherbro94/Documents/App%20Development/iOS/wildflower/wildflower/en.lproj/MainStoryboard.storyboard0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--2@49"Prototype table cells must have reuse identifiers-386820717#18446744073709551615#0#-1#-3@123"file://localhost/Users/gopherbro94/Documents/App%20Development/iOS/wildflower/wildflower/en.lproj/MainStoryboard.storyboard0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Unsupported Configuration--0#0#0#-19%DVTDocumentLocation4@123"file://localhost/Users/gopherbro94/Documents/App%20Development/iOS/wildflower/wildflower/en.lproj/MainStoryboard.storyboard0000000000000000^981"CompileStoryboard wildflower/en.lproj/MainStoryboard.storyboard    cd "/Users/gopherbro94/Documents/App Development/iOS/wildflower"    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/en.lproj/MainStoryboard.storyboardc" "/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/en.lproj/MainStoryboard.storyboard" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk36"CCF5CBDA-ACB3-4C40-A990-A28BB07A2560-
+
+CCopyPNGFile "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/Default-568h@2x.png" wildflower/Default-568h@2x.png
+s386820716.257956
+e386820716.361774
+r1
+xCopyPNGFile
+x/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/Default-568h@2x.png
+xwildflower/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"CopyPNGFile DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/Default-568h@2x.png wildflower/Default-568h@2x.pngd61e426c6a0eb741^919c5c6c6a0eb741^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/gopherbro94/Documents/App%20Development/iOS/wildflower/wildflower/Default-568h@2x.png0000000000000000^749"CopyPNGFile "DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/Default-568h@2x.png" "wildflower/Default-568h@2x.png"    cd "/Users/gopherbro94/Documents/App Development/iOS/wildflower"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/Default-568h@2x.png" "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/Default-568h@2x.png"36"2E1445AD-B55B-413E-A213-9E54B8AB56BE-
+
+CCopyPNGFile "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/Default.png" wildflower/Default.png
+s386820716.257650
+e386820716.308052
+r1
+xCopyPNGFile
+x/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/Default.png
+xwildflower/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"CopyPNGFile DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/Default.png wildflower/Default.pngfa0e426c6a0eb741^eee94e6c6a0eb741^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/gopherbro94/Documents/App%20Development/iOS/wildflower/wildflower/Default.png0000000000000000^713"CopyPNGFile DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/Default.png wildflower/Default.png    cd "/Users/gopherbro94/Documents/App Development/iOS/wildflower"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/Default.png" "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/Default.png"36"F174D328-B39D-4EAD-BC01-80703BF54354-
+
+CCopyPNGFile "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/Default@2x.png" wildflower/Default@2x.png
+s386820716.257666
+e386820716.346413
+r1
+xCopyPNGFile
+x/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/Default@2x.png
+xwildflower/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"CopyPNGFile DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/Default@2x.png wildflower/Default@2x.pngb20f426c6a0eb741^79ad586c6a0eb741^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/gopherbro94/Documents/App%20Development/iOS/wildflower/wildflower/Default@2x.png0000000000000000^729"CopyPNGFile "DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/Default@2x.png" "wildflower/Default@2x.png"    cd "/Users/gopherbro94/Documents/App Development/iOS/wildflower"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/Default@2x.png" "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/Default@2x.png"36"C7D36B0A-622D-42D6-B2D9-42A6A2BD45E4-
+
+CCopyStringsFile "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/en.lproj/InfoPlist.strings" wildflower/en.lproj/InfoPlist.strings
+s386820716.257647
+e386820716.262542
+r1
+xCopyStringsFile
+x/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/en.lproj/InfoPlist.strings
+xwildflower/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Copy wildflower/en.lproj/InfoPlist.strings7a18426c6a0eb741^b135436c6a0eb741^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/gopherbro94/Documents/App%20Development/iOS/wildflower/wildflower/en.lproj/InfoPlist.strings0000000000000000^676"CopyStringsFile DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/en.lproj/InfoPlist.strings wildflower/en.lproj/InfoPlist.strings    cd "/Users/gopherbro94/Documents/App Development/iOS/wildflower"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/en.lproj" -- wildflower/en.lproj/InfoPlist.strings36"CFE60F2C-5C2E-4F12-B6DA-EE0C47F79555-
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/ResourceRules.plist
+s386820715.877472
+e386820715.881410
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist
+xDerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/ResourceRules.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/ResourceRules.plist2cbbe06b6a0eb741^d3a3e16b6a0eb741^---0#0#0#-19%DVTDocumentLocation2@165"file://localhost/Users/gopherbro94/Documents/App%20Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/ResourceRules.plist000000000080d041^842"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/ResourceRules.plist    cd "/Users/gopherbro94/Documents/App Development/iOS/wildflower"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app"36"F8BF77DB-6033-4936-8855-2E082C67305F-
+
+CGenerateDSYMFile "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app.dSYM" "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/wildflower"
+s386820716.232662
+e386820716.249517
+r1
+xGenerateDSYMFile
+x/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app.dSYM
+x/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/wildflower
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection141"Generate /Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app.dSYMb1a53b6c6a0eb741^1adf3f6c6a0eb741^---0#0#0#-19%DVTDocumentLocation2@150"file://localhost/Users/gopherbro94/Documents/App%20Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app.dSYM000000000080d041^805"GenerateDSYMFile DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app.dSYM DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/wildflower    cd "/Users/gopherbro94/Documents/App Development/iOS/wildflower"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/wildflower" -o "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app.dSYM"36"348BC133-F143-4876-9562-0145222C3D91-
+
+CLd "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/wildflower" normal armv7
+s386820716.204160
+e386820716.226414
+r1
+xLd
+x/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/wildflower
+xnormal
+xarmv7
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection143"Link /Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/wildflower185f346c6a0eb741^e0f5396c6a0eb741^---0#0#0#--1335"Ld DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/wildflower normal armv7    cd "/Users/gopherbro94/Documents/App Development/iOS/wildflower"    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk "-L/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos" "-F/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos" -filelist "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/Objects-normal/armv7/wildflower.LinkFileList" -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -o "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/wildflower"36"03561337-2F36-46ED-AE02-A183286F41B1-
+
+CProcessInfoPlistFile "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/Info.plist" wildflower/wildflower-Info.plist
+s386820715.877463
+e386820715.880835
+r1
+xProcessInfoPlistFile
+x/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/Info.plist
+xwildflower/wildflower-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Process wildflower/wildflower-Info.plist73bee06b6a0eb741^1894e16b6a0eb741^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/gopherbro94/Documents/App%20Development/iOS/wildflower/wildflower/wildflower-Info.plist0000000000000000^970"ProcessInfoPlistFile DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/Info.plist wildflower/wildflower-Info.plist    cd "/Users/gopherbro94/Documents/App Development/iOS/wildflower"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility wildflower/wildflower-Info.plist -genpkginfo "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/ResourceRules.plist" -o "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/Info.plist"36"6DAC1068-02E5-4086-AFB9-214DE1477BD1-
+
+CProcessPCH "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/PrecompiledHeaders/wildflower-Prefix-grwrdvvzrktquygngbkgwkctncbp/wildflower-Prefix.pch.pth" wildflower/wildflower-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s386820715.889161
+e386820716.131521
+r1
+xProcessPCH
+x/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/PrecompiledHeaders/wildflower-Prefix-grwrdvvzrktquygngbkgwkctncbp/wildflower-Prefix.pch.pth
+xwildflower/wildflower-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile wildflower/wildflower-Prefix.pch90bce36b6a0eb741^b4aa216c6a0eb741^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/gopherbro94/Documents/App%20Development/iOS/wildflower/wildflower/wildflower-Prefix.pch0000000000000000^3958"ProcessPCH DerivedData/wildflower/Build/Intermediates/PrecompiledHeaders/wildflower-Prefix-grwrdvvzrktquygngbkgwkctncbp/wildflower-Prefix.pch.pth wildflower/wildflower-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/gopherbro94/Documents/App Development/iOS/wildflower"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/wildflower-generated-files.hmap" "-I/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/wildflower-own-target-headers.hmap" "-I/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/wildflower-all-target-headers.hmap" -iquote "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/wildflower-project-headers.hmap" "-I/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/DerivedSources/armv7" "-I/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/DerivedSources" "-F/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos" --serialize-diagnostics "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/PrecompiledHeaders/wildflower-Prefix-grwrdvvzrktquygngbkgwkctncbp/wildflower-Prefix.pch.dia" -c "/Users/gopherbro94/Documents/App Development/iOS/wildflower/wildflower/wildflower-Prefix.pch" -o "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/PrecompiledHeaders/wildflower-Prefix-grwrdvvzrktquygngbkgwkctncbp/wildflower-Prefix.pch.pth" -MMD -MT dependencies -MF "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/PrecompiledHeaders/wildflower-Prefix-grwrdvvzrktquygngbkgwkctncbp/wildflower-Prefix.pch.d"36"18979192-34F6-45D2-95A5-773C372FD387-
+
+CProcessPCH "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Index/PrecompiledHeaders/wildflower-Prefix-fzndqfoungygmzcerivcouzzsmob_ast/wildflower-Prefix.pch.pth" wildflower/wildflower-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging "/Users/gopherbro94/Library/MobileDevice/Provisioning Profiles/E6A1CB81-CA61-43B7-829F-D09F971D3864.mobileprovision" "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/embedded.mobileprovision"
+s386820717.301584
+e386820717.304209
+r1
+xProcessProductPackaging
+x/Users/gopherbro94/Library/MobileDevice/Provisioning Profiles/E6A1CB81-CA61-43B7-829F-D09F971D3864.mobileprovision
+x/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/embedded.mobileprovision
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection233"ProcessProductPackaging "/Users/gopherbro94/Library/MobileDevice/Provisioning Profiles/E6A1CB81-CA61-43B7-829F-D09F971D3864.mobileprovision" DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/embedded.mobileprovisionc64d4d6d6a0eb741^6e174e6d6a0eb741^---0#0#0#-19%DVTDocumentLocation2@170"file://localhost/Users/gopherbro94/Documents/App%20Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/embedded.mobileprovision0000000000000000^802"ProcessProductPackaging "/Users/gopherbro94/Library/MobileDevice/Provisioning Profiles/E6A1CB81-CA61-43B7-829F-D09F971D3864.mobileprovision" DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/embedded.mobileprovision    cd "/Users/gopherbro94/Documents/App Development/iOS/wildflower"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility "/Users/gopherbro94/Library/MobileDevice/Provisioning Profiles/E6A1CB81-CA61-43B7-829F-D09F971D3864.mobileprovision" -o "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app/embedded.mobileprovision"36"635D91D8-5BF3-44BC-A680-1EBD0D613367-
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/wildflower.xcent"
+s386820717.326511
+e386820717.329303
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist
+x/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/wildflower.xcent
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection253"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/wildflower.xcent32af536d6a0eb741^7b4c546d6a0eb741^---0#0#0#-19%DVTDocumentLocation2@186"file://localhost/Users/gopherbro94/Documents/App%20Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/wildflower.xcent000000000080d041^868"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/wildflower.xcent    cd "/Users/gopherbro94/Documents/App Development/iOS/wildflower"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist -entitlements -format xml -o "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Intermediates/wildflower.build/Debug-iphoneos/wildflower.build/wildflower.xcent"36"24A9176C-7F88-43B0-9848-52DFC09248FF-
+
+CTouch "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app"
+s386820717.312252
+e386820717.318502
+r1
+xTouch
+x/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Touch /Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app26ff4f6d6a0eb741^6e88516d6a0eb741^---0#0#0#--483"Touch DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app    cd "/Users/gopherbro94/Documents/App Development/iOS/wildflower"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/gopherbro94/Documents/App Development/iOS/wildflower/DerivedData/wildflower/Build/Products/Debug-iphoneos/wildflower.app"36"9B01E6C7-6740-4C54-8CC5-0EDFB05E4F76-
+
